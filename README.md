@@ -70,10 +70,7 @@ This Python script demonstrates the generation of EdDSA (Ed25519) cryptographic 
 * **More Robust Input Validation:** Add more comprehensive input validation to prevent errors.
 * **Command-Line Arguments:** Allow users to perform actions (e.g., sign, verify) directly from the command line without the interactive menu.
 
-## License
-
-This project is open-source and available under the [Specify your license here, e.g., MIT License]. See the `LICENSE` file for more details.
 
 ## Author
 
-[Your Name/GitHub Username]
+[Zemed Abeje /zed1591]
